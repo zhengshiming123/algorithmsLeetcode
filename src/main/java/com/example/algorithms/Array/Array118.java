@@ -1,7 +1,6 @@
-package com.example.algorithms;
+package com.example.algorithms.Array;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
